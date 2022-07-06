@@ -1,4 +1,4 @@
-export class book{
+export class Book{
     id: string = '';
     name: string = '';
     price: number = 0;
