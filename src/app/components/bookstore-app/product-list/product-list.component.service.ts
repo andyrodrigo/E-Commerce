@@ -4,7 +4,7 @@ import { book } from "./Model/Book";
 
 @Injectable()
 
-export class bookService{
+export class BookService{
 
     private url = "url"
 
